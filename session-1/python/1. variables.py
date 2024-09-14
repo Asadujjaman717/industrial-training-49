@@ -25,14 +25,14 @@ x = 5
 y = "Hello, Python learners!"
 
 # You can print the variables to see their values.
-# print(x)
-# print(y)
+print(x)
+print(y)
 
 # Assignment 1: Create two variables, one holding a number and the other holding your name. Then print both.
 # Write your code below:
 
 age = 25
-name = "Sultanul Arafin Sakib"
+name = "Asadujjaman Turag"
 
 print("Age : ",age)
 print("Name : ",name)
